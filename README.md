@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lelis-46b6a723a/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leliseduardo)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://leliseduardo.github.io)&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=leliseduardo&style=flat-square&color=58A6FF&label=profile+views)
 
